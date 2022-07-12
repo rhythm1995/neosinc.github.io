@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzionsys_website=self.webpackChunkzionsys_website||[]).push([[235],{2603:e=>{e.exports=JSON.parse('{"title":"Hypervisor","slug":"/category/hypervisor","permalink":"/docs/category/hypervisor","navigation":{"previous":{"title":"ATF","permalink":"/docs/bootloader/atf"},"next":{"title":"Hypervisor","permalink":"/docs/hypervisor/"}}}')}}]);

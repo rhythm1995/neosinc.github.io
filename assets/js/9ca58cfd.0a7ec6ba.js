@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzionsys_website=self.webpackChunkzionsys_website||[]).push([[351],{4993:e=>{e.exports=JSON.parse('{"title":"Kernel","slug":"/category/kernel","permalink":"/docs/category/kernel","navigation":{"previous":{"title":"Hypervisor","permalink":"/docs/hypervisor/"},"next":{"title":"Kernel","permalink":"/docs/kernel/"}}}')}}]);
