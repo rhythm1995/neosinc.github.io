@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzionsys_website=self.webpackChunkzionsys_website||[]).push([[915],{322:e=>{e.exports=JSON.parse('{"title":"Platform","slug":"/category/platform","permalink":"/docs/category/platform","navigation":{"previous":{"title":"Kernel","permalink":"/docs/kernel/"},"next":{"title":"CM4","permalink":"/docs/platform/cm4"}}}')}}]);
